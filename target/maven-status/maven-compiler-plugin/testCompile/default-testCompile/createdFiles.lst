@@ -1,0 +1,5 @@
+utilities/BaseTest.class
+utilities/GenerateScreenshot.class
+actualTests/LoginTest.class
+pages/AcceptCookieHomePage.class
+pages/LoginPage.class
