@@ -1,5 +1,4 @@
-**Selenium WebDriver page object model in Java using TestNG and Maven as a build tool.
-**
+**Selenium WebDriver page object model in Java using TestNG and Maven as a build tool.**
 following  Configuration Properties are used:
 Url Base URL (https://www.contorion.de/)
 Browser Name: (chrome)
