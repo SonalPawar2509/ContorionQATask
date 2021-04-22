@@ -1,10 +1,10 @@
-Selenium WebDriver page object model in Java using TestNG and Maven as a build tool.
-
+**Selenium WebDriver page object model in Java using TestNG and Maven as a build tool.
+**
 following  Configuration Properties are used:
 Url Base URL (https://www.contorion.de/)
-Browser Browser Name (chrome)
+Browser Name: (chrome)
 
-Pre-requisites:
+**Pre-requisites:**
 JVM
 Maven
 Chrome browser version on Mac machine: 89.0.4389.114  or below 89.0.4389.114 
@@ -18,14 +18,14 @@ After the successful execution of the test cases. Run the below command to open 
 
 To open the reports. Run the below command
 
-`open target/surefire-reports/index.html
+`open target/surefire-reports/index.html`
 
 
 It will display all the test cases and its status
 
 **To open the screenshots**
 
-`open screenshots/<imagename>.png
+`open screenshots/<imagename>.png`
 `
 Images are generated with the time stamp.
 
